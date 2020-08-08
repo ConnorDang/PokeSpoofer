@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpsies="https://www.gpsies.com/GPX/1/0" creator="AllTrails https://www.alltrails.com/ - AllTrails Route" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd https://www.gpsies.com/GPX/1/0 https://www.gpsies.com/gpsies.xsd">
+  <metadata>
+    <name>AllTrails Route</name>
+    <link href="https://www.gpsies.com/">
+      <text>AllTrails Route on AllTrails</text>
+    </link>
+    <time>2019-09-27T17:45:37Z</time>
+  </metadata>
+  <trk>
+    <name>AllTrails Route on AllTrails</name>
+    <trkseg>
+      <trkpt lat="34.01662873" lon="-118.501434">
+        <ele>28.000000</ele>
+        <time>2010-01-01T00:00:00Z</time>
+      </trkpt>
+      <trkpt lat="34.01662000" lon="-118.501440">
+        <ele>28.000000</ele>
+        <time>2010-01-01T00:00:02Z</time>
+      </trkpt>
+      <trkpt lat="34.01668000" lon="-118.501500">
+        <ele>27.000000</ele>
+        <time>2010-01-01T00:00:21Z</time>
+      </trkpt>
+      <trkpt lat="34.01672000" lon="-118.501550">
+        <ele>25.000000</ele>
+        <time>2010-01-01T00:00:36Z</time>
+      </trkpt>
+      <trkpt lat="34.01660000" lon="-118.501410">
+        <ele>29.000000</ele>
+        <time>2010-01-01T00:01:18Z</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>
+
